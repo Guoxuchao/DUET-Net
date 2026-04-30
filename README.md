@@ -1,6 +1,6 @@
 # DUET-Net
 
-Official implementation of the paper **DUET-Net: Dual Uncertainty-Driven Semi-Supervised Learning for Dense Maize Tassel Counting**.
+Official implementation of the paper **DUET-Net: a dual uncertainty-enhanced semi-supervised network for low-annotation dense maize tassel counting from UAV remote sensing**.
 
 All source code will be made public after the paper is accepted.
 

@@ -1,6 +1,6 @@
 # DUET-Net
 
-Official implementation of the paper **Low-annotation dense maize tassel counting: a PPA enhanced and dual uncertainty-driven semi-supervised framework **.
+Official implementation of the paper **Low-Annotation Dense Maize Tassel Counting: A PPA Enhanced and Dual Uncertainty-Driven Semi-Supervised Framework **.
 
 All source code will be made public after the paper is accepted.
 
